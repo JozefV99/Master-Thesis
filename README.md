@@ -1,9 +1,10 @@
 # Classification of Wind Turbine Components based on Synthetic Image Analysis through Deep Learning for Computer Vision
 
-
-
-
-
+<img
+  src="/Intro image.png"
+  alt="REAL vs SYNTHETIC IMAGERY"
+  title="REAL vs SYNTHETIC IMAGERY"
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
 
 ## Description
 
