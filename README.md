@@ -57,3 +57,8 @@ Each code represents a separate experiment using a chosen deep learning architec
 - **EXPERIMENT 3 – SSD – MEDIUM.ipynb**
 - **EXPERIMENT 3 – SSD – HIGH.ipynb**
 
+<img
+  src="/example predictions.png"
+  alt="Inferred annotations"
+  title="Inferred annotations"
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
